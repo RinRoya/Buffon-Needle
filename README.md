@@ -1,4 +1,4 @@
-# Buffon-Needle
+# Buffon Needle
 Implementasi Algoritma Buffon Needle menggunakan GUI
 
 File terletak pada project TeknikSimulasi-src-BuffonNeedle
