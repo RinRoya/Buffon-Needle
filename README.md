@@ -3,7 +3,12 @@ Implementasi Algoritma Buffon Needle menggunakan GUI
 
 File terletak pada project TeknikSimulasi-src-BuffonNeedle
 
-#### Preview tampilan
+### Source Code
+[Lihat di Sini Untuk Algoritmanya](https://github.com/RinRoya/Buffon-Needle/blob/main/TeknikSimulasi/src/BuffonNeedle/AlgoritmaBuffonNeedle.java)
+
+[Lihat di Sini Untuk GUInya](https://github.com/RinRoya/Buffon-Needle/blob/main/TeknikSimulasi/src/BuffonNeedle/TampilanBuffonNeedle.java)
+
+### Preview tampilan
 ##### 1. Tampilan Kontributor
 ![Tampilan Kontributor](https://user-images.githubusercontent.com/49511033/97583447-8c9cce00-1a29-11eb-86e8-a326840c12c7.PNG)
 ##### 2. Tampilan Input
